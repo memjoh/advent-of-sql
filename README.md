@@ -1,2 +1,2 @@
 # advent-of-sql
-walk throughs of all advent of sql challenges
+code for all advent of sql challenges
