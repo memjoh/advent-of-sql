@@ -6,9 +6,6 @@ repo contains code for all advent of sql challenges
 <br />   
 [Link to Advent of SQL Challenges](https://adventofsql.com/)
 
-<br />   
-
- 
 
 ### Tech Stack Used
 **PostgreSQL**
