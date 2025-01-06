@@ -2,9 +2,9 @@
 
 
 ### Goals
-Parse out wished for item(s) and favorite color(s) per child from wish lists stored in JSON. 
-Map difficulty and workshop needed using a CASE statement.
-Return first 5 children ASC.
+* Parse out wished for item(s) and favorite color(s) per child from wish lists stored in JSON.
+* Map difficulty and workshop needed using a CASE statement.
+* Return first 5 children ASC.
 
 ### Challenges
 I haven't worked with JSON in SQL before, so needed to do some research to figure out how to parse and extract items stored in a JSON format. I found this [JSON Functions](https://neon.tech/postgresql/postgresql-json-functions) reference site helpful.
@@ -34,4 +34,4 @@ FROM wish_lists w
 ```
 
 ### Skills Used
-**JSON &nbsp;&nbsp; | &nbsp;&nbsp; JOIN &nbsp;&nbsp; | &nbsp;&nbsp; CASE**  
+**JSON &nbsp;&nbsp; | &nbsp;&nbsp; JOIN &nbsp;&nbsp; | &nbsp;&nbsp; CTE &nbsp;&nbsp; | &nbsp;&nbsp; CASE**  
